@@ -1,3 +1,5 @@
 .idea/
 .venv/
 BrainScan_Dataset/
+models/
+processed/
